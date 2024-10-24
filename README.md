@@ -102,6 +102,6 @@ Contributions are welcome!
 - To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
 - This year, the first 55,000 participants can earn a T-shirt.
 
-A repository/project is considered to be participating in Hacktoberfest if the 'hacktoberfest' topic is present and is accepting public contributions via pull requests. An individual pull request can also be opted-in directly by adding the 'hacktoberfest-accepted' label.
+A project is eligible for Hacktoberfest if it includes the 'hacktoberfest' topic and accepts public pull requests. Individual pull requests can also participate by adding the 'hacktoberfest-accepted' label, even if the project itself isn't tagged.
 
 A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
